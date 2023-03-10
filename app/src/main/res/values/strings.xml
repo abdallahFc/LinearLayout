@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">LinearLayout</string>
+    <string name="rating_value">4.5</string>
+    <string name="review_value">(150 Review)</string>
+    <string name="days_value">5 Days ago</string>
+    <string name="time_value">3 hr</string>
+    <string name="nationality">Russian</string>
+    <string name="profession">Engineer</string>
+    <string name="name">Ahmed hassan</string>
+    <string name="country">UK</string>
 </resources>
