@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="rating_value">٤,٥</string>
+    <string name="review_value">(١٥٠ تقيم)</string>
+    <string name="nationality">روسيا</string>
+    <string name="profession">مهندس</string>
+    <string name="time_value">٣ ساعات </string>
+    <string name="name"> احمد حسن</string>
+    <string name="country">المملكة المتحدة</string>
+    <string name="days_value">٥ ايام مضت </string>
+</resources>
