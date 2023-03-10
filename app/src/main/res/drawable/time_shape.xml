@@ -4,6 +4,6 @@
     <size
         android:width="38dp"
         android:height="20dp" />
-    <solid android:color="@color/colorTimer" />
+    <solid android:color="@color/timer" />
     <corners android:radius="100dp" />
 </shape>
